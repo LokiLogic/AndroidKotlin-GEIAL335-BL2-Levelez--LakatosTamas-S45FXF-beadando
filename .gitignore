@@ -1,0 +1,17 @@
+/.gradle
+/.idea
+/local.properties
+/.DS_Store
+/**/build
+**/build/**
+.gradle/**
+/captures
+.externalNativeBuild
+/.cxx
+/*.iml
+/.idea/workspace.xml
+/build/
+/app/build/
+*/.idea/
+.vscode/
+
